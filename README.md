@@ -8,7 +8,7 @@ Seeking opportunities to develop my skills.
 
 <p align="left"> <a href="https://twitter.com/randheersuman" target="blank"><img src="https://img.shields.io/twitter/follow/randheersuman?logo=twitter&style=for-the-badge" alt="randheersuman" /></a> </p>
 
-- 🔭 I’m currently Learning on *Ethics, WebDeveloper*
+- 🔭 I’m currently Learning on **Ethics, WebDeveloper**
 
 - 🤝 I’m looking for help with [Youtube](https://youtube.com/@randheersumanvlogs)
 
