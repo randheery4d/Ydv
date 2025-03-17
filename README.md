@@ -31,3 +31,84 @@ Seeking opportunities to develop my skills.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=randheery4d&show_icons=true&locale=en" alt="randheery4d" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randheery4d&" alt="randheery4d" /></p>
+
+
+
+
+
+
+-----
+-----
+-----
+
+
+<h1 align="center">Hi 👋, I'm Randheer Suman</h1>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding" width="500"/>
+</p>
+
+---
+
+## 🚀 About Me  
+
+- 🔭 **Currently Learning:** Ethics & Web Development  
+- 🎥 **Looking for Help With:** [YouTube Channel](https://youtube.com/@randheersumanvlogs)  
+- 💡 **Passionate About:** Frontend Development & Ethical Tech  
+- 📫 **Contact Me:** rsatdbg@gmail.com  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://twitter.com/randheersuman"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rrandheersuman"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/randheer_y4d"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://youtube.com/@randheersumanvlogs"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,gcp,vscode,github" alt="Skills" />
+</p>
+
+---
+
+## 🔥 My GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=randheery4d&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randheery4d&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=randheery4d&show_icons=true&theme=radical&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+## 🚀 My Work  
+
+### **🌟 Featured Projects**
+- [🔗 Project 1](#) - **(Short Description Here)**
+- [🔗 Project 2](#) - **(Short Description Here)**
+- [🔗 Project 3](#) - **(Short Description Here)**
+
+### **📖 Recent Blogs**
+- [📝 Blog 1](#) - **(Short Description Here)**
+- [📝 Blog 2](#) - **(Short Description Here)**
+
+---
+
+### 🎯 Fun Fact  
+💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+
+---
